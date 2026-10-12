@@ -1,0 +1,9 @@
+stream,social,market,n days,r same day,p,r (social t → market t+1),p 
+equities,posts,vol,17,0.277,0.281,0.284,0.286
+equities,posts,absret,17,-0.0,0.999,-0.002,0.994
+equities,vader,ret,17,0.335,0.188,-0.541,0.03
+equities,negative,ret,17,-0.593,0.012,0.23,0.391
+crypto,posts,vol,31,0.701,0.0,0.482,0.007
+crypto,posts,absret,31,0.58,0.001,0.231,0.219
+crypto,vader,ret,31,0.432,0.015,0.289,0.122
+crypto,negative,ret,31,-0.424,0.017,-0.39,0.033

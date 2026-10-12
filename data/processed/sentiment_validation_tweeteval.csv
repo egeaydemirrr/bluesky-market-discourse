@@ -1,0 +1,4 @@
+,accuracy,macro F1,weighted F1
+AFINN,0.548,0.545,0.553
+VADER,0.524,0.523,0.53
+RoBERTa,0.724,0.728,0.724

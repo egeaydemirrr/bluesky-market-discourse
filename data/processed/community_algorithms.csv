@@ -1,0 +1,6 @@
+algorithm,communities,modularity Q,largest,share in top 10,communities with ≥ 50 nodes
+Louvain,67,0.8599,688,0.3739,59
+Greedy modularity (CNM),86,0.8582,951,0.4639,46
+Label propagation,1682,0.7242,628,0.2146,32
+FluidC k=3,3,0.5449,5245,1.0,3
+FluidC k=10,10,0.748,2257,1.0,10

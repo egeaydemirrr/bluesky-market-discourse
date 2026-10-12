@@ -1,0 +1,5 @@
+,nodes,edges,density,avg_degree,max_in_degree,reciprocity,n_weak_components,giant_wcc_share,giant_scc_share,avg_clustering,transitivity,degree_assortativity
+all,15973,18980,0.0001,2.3765,738.0,0.2464,1905.0,0.6974,0.0357,0.0291,0.0023,-0.1199
+equities,6792,6859,0.0001,2.0197,441.0,0.2333,1139.0,0.5396,0.0047,0.0231,0.0016,-0.1328
+macro,6276,7222,0.0002,2.3015,352.0,0.2304,785.0,0.6442,0.0247,0.0314,0.0034,-0.1876
+crypto,5151,5268,0.0002,2.0454,233.0,0.2771,916.0,0.497,0.0132,0.0326,0.0046,-0.1482
